@@ -30,7 +30,7 @@ lavalink:
         - dependency: dev.lavalink.youtube:youtube-plugin:130561e2d2f76605eb08b2c9cc4facbf400caccb
           snapshot: true
     server:
-        bufferDurationMs: 400
+    
         filters:
             channelMix: true
             distortion: true
