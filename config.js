@@ -25,3 +25,20 @@ module.exports = {
     }
   ]
 }
+```Location India (Mumbai)
+ALL IN ONE
+"lavalink": {
+        "identifier": "MuzammilOPYT",
+        "password": "GAMIFY7231",
+        "host": "ind1.zapto.org",
+        "port":  25575,
+        "secure": false
+      }
+PRIME MUSIC
+{
+      name: "MuzammilOPYT",
+      password: "GAMIFY7231",
+      host: "ind1.zapto.org",
+      port:  25575,
+      secure: false
+}```
